@@ -13,7 +13,7 @@ You will also see any lint errors in the console.
 
 ### `npm install`
 
-To install all the modules required for running the application
+To install all the modules required for running the application \
 This is the first step to make sure the software runs successfully
 
 
